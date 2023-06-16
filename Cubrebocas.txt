@@ -1,0 +1,117 @@
+ <html>
+    <head>
+        <title>Cubrebocas</title>
+        <link rel="stylesheet" href="estilosisaac.css">
+    </head>
+
+    <body>
+        
+    <header>
+            
+        <div class="cabeza">
+        <h1>CUBREBOCAS</h1>
+        </div>
+            
+    </header>
+        
+        <h2>¿CUAL ES LA FUNCION DEL CUBREBOCAS?</h2>
+            
+        <p><img src="referencia3.png" align="right" width="400" height="300">Cuando se usa una mascarilla quirúrgica o de higiene, el objetivo es evitar la transmisión hacia el paciente, de agentes infecciosos, provenientes del personal de salud que lo usa. También tienen la finalidad de evitar el contacto con las salpicaduras de fluidos y sangre potencialmente patógenos. Están diseñados para evitar la diseminación de microorganismos que se alojan en boca, nariz y garganta, por lo cual se evita la contaminación a las heridas del paciente, funcionan de dentro hacia fuera, la razón por la que cumplen su función, es porque, durante la exhalación, el aire de la nariz y la boca sale con cierta velocidad y se dirige frontalmente. Las partículas son relativamente gruesas, entre 3 y 8 micras, (1 micra = 0,001 mm), e impactan directamente en la parte interior de la mascarilla.</p>
+            
+        
+        <h2>USO CORRECTO DEL CUBREBOCAS</h2>
+        
+        <div class="referencia1">
+            <img src="referencia1.webp" alt="" />
+                <p>1. Lávate las manos con agua y jabón antes de manipular el cubrebocas.<br>
+                2. Revisa que se encuentre en un estado óptimo para ser utilizado.<br>
+                3. Asegúrate que el cubrebocas se encuentre del lado correcto, es decir, que la parte que va hacia la cara sea la adecuada.<br>
+                4. Sujétalo alrededor de las orejas.<br>
+                5. Cubre completamente tu rostro desde el puente de la nariz hasta debajo del mentón. No dejes ningún espacio o hueco.</p>
+        </div>
+        
+        <div class="referencia2">
+            <img src="referencia2.webp" alt="" />
+                <p>6. No toques el cubrebocas mientras lo usas. Si lo haces, lávate las manos, usa gel o solución de alcohol.<br>
+                7. Reemplaza el cubrebocas en caso de que se humedezca.<br>
+                8. Para quitártelo, hazlo de atrás hacia delante, desatándolo con las manos limpias.<br>
+                9. Luego de usarlo, lávalo inmediatamente a mano o en lavadora si es de tela; o si es desechable, deposítalo en una bolsa de plástico, ciérrala y tírala en la basura.</p>
+            
+        </div>
+        
+        <a href="#"><h2>AS&Iacute;NACI&Oacute; EL CUBREBOCAS</h2></a>
+        
+        <p>Imaginemos que es 1890 y una pareja toma café. Él se llama Karl Wilhem Flügge, es higienista alemán y cuenta su más reciente descubrimiento “¿sabías que cuando tosemos, estornudamos o hablamos esparcimos gotitas de saliva por el aire?”</p>
+        
+        <p>“¿Ah sí?”, responde ella con media mordida de sándwich en la boca y por ende escupe sobre la mesa, sobre el café y sobre Wilhem Flügge, “no sabía”, agrega y le da un sorbo a su café.</p>
+        
+        <p>La historia es inventada, pero las cosas ciertas del asunto las dijo el Dr. Guillermo Murillo-Godínez en su breve artículo Las gotitas de Flügge:</p>
+        
+        <p>1)	Las gotas alcanzan una distancia de un metro, aun si se habla en voz baja. 
+           2) Se quedan en el aire durante media hora y después se establecen en superficies. 
+           3) Miden hasta diez micras. O sea, diez millonésimas partes de un metro, (Brian Ley demostró en 1999 con su estudio Diameter of a Human Hair que un cabello humano, por más delgado que sea, no es menor a 17 micras). 
+           4) Son portadoras de bacterias y virus.
+</p>
+        
+        <p>Por este último punto fue que en 1897 se abogó por el uso de cubrebocas en cirugía y así proteger a la gente de morir por infecciones tras operarse.</p>
+        
+        <h2>TIPOS DE CUBREBOCAS</h2>
+        
+        <p>MASCARILLA QUIR&Uacute;RGICA</p>
+        
+        <p><img src="IMAGEN1.jpg" align="left" width="500" height="400">El empleo de este dispositivo está autorizado por la Food and Drug Administration (FDA, por sus siglas en inglés), con especificación estándar para el desempeño de materiales utilizados en mascarillas faciales médicas.</p>
+        
+        <p>Su mecanismo de función incluye bloqueo de las gotas grandes de partículas, derrames, aerosoles o salpicaduras, y se usan principalmente para procurar proteger a los pacientes de los trabajadores de la salud, reduciendo su exposición a saliva y secreciones respiratorias. No crean unsello hermético contra la piel ni filtran los patógenos del aire muy pequeños. </p>
+    
+        
+        <h2>MASCARILLA QUIR&Uacute;GICA TIPOS DE CONCHA</h2>
+        
+        <P><img src="IMAGEN2.jfif" align="right" width="300" height="200">Su regulación se encuentra supeditada a la NIOSH, no obstante, aquellas
+           que no están registradas por este organismo ni cuenten con autorización de
+           FDA (Food and Drug Administration) y que, de acuerdo con normas
+           específicas de otros países son adecuadas, pueden considerarse
+           alternativas. </P>
+        
+        <h2> RESPIRATORIO N95 </h2>
+        
+       <p><img src="IMAGEN3.jpg" align="left" width="400" height="370">El uso de este dispositivo se encuentra regulado por la NAS (China National
+          Accreditation Service for Conformity Assessment) y la FDA (Food and Drug
+          Administration)Dado que los respiradores KN95 son de procedencia China, un organismo nacional se encarga de la acreditación, certificación e inspección a fin de que se cumpla el estándar GB 2626-2006 (norma obligatoria en China)Si se consideran las condiciones en las que se produjo la pandemia porCOVID-19, el número de insumos de respiradores N95 era insuficiente para la demanda mundial, lo cual llevó a realizar protocolos para la limpieza y reutilización de equipos de protección respiratoria que a menudo no prueban rigurosamente la forma física, la función y la esterilidad biológica después de la descontaminación.No obstante, algunos autores consideran que cuando se encuentre en ambientes contaminados por virus, para lograr una autoprotección eficaz, las máscaras con propiedades de filtrado de partículas (FFP2/N95/KN95) son absolutamente necesarias.</p>
+            
+            <h2>Respirador KN95</h2>
+            
+            <p><img src="IMAGEN4.jfif" align="right" width="400" height="400">Respirador KN95 Deben utilizarse cuando se realicen procedimientos que generen aerosoles o diseminación por gotas, o cirugía que involucre el uso de dispositivos de alta velocidad. El uso de este dispositivo se encuentra regulado por la NAS (China NationalAccreditation Service for Conformity Assessment) y la FDA (Food and Drug Administration). Está dirigido al personal de salud cuando otorgue atención de rutina a todo paciente con una enfermedad respiratoria como COVID-19 y se realicen procedimientos que generen aerosoles.e esta manera, el 3 de abril de 2020, la FDA emitió una actualización a
+           la autorización de uso de emergencia (EUA) para respiradores no aprobados por NIOSH fabricados en China, lo que hace que los respiradores KN95 sean elegibles si cumplen ciertos criterios, incluyendo evidencia que demuestra que el respirador es auténtico. Como se observa en las descripciones de los diferentes dispositivos, las
+           mascarillas faciales pueden ofrecer tres tipos diferentes de protección fundamental</p>
+     
+     <h2>¿DE QUÉ MATERIAL ESTÁN HECHOS LOS CUBREBOCAS?</h2>
+        
+     <p>Los cubrebocas tienen la función de evitar la diseminación de patógenos que se alojan en nariz, boca y garganta. Por ello, aquellos que aseguran una correcta protección están hechos de telas hidro repelentes, pero también transpirables. A continuación, conoce los tipos de cubrebocas más confiables y adecuados para continuar con la protección durante la contingencia por COVID-19.</p>
+     
+     <p>Triple capa </p>
+     
+     <p>Generalmente, los cubrebocas tricapa están hechos de polipropileno. Al igual que las mascarillas tipo concha, se recomienda su uso para contextos que no implican un alto riesgo de contacto con partículas de aerosoles.</p>
+     
+     <p>Respirador N95</p>
+     
+     <p>Este cubrebocas cumple con el estándar N95 del Instituto Nacional para la Seguridad y Salud Ocupacional de los Estados Unidos de América. Está hecho con una tela de polipropileno no tejida, que impide el paso de partículas microscópicas. Su uso está recomendado para entornos en donde haya presencia de aerosoles, que aumenten el riesgo de transmisión de microrganismos.</p>
+     
+     <p>Quirúrgico tipo concha</p>
+     
+     <p>Los cubrebocas tipo concha están fabricados con polipropileno. Brindan buena protección contra microrganismos; sin embargo, se sugiere su uso para contextos en donde no existe riesgo de entrar en contacto con aerosoles.</p>
+     
+     <p>¿Cuál es el mejor?</p>
+     
+     <p>Como puedes ver, cada cubrebocas tiene un fin específico de acuerdo con los materiales de los que está hecho. Por ello, el mejor será aquel que se adapte a las necesidades de tu centro de trabajo. Recuerda que no es lo mismo estar en la zona de cuidados intensivos, que brindar consulta rutinaria en donde la amenaza de estar expuesto a patógenos es menor.</p>
+     
+     <P></P>
+        
+    </body>
+</html>
+
+
+
+
+
+
+
